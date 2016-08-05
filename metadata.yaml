@@ -1,0 +1,37 @@
+_repo: The-Dor--Bible-Gallery-Complete--13-Containing-One-Hundred-Superb-Illustrations-and-a-Page-of-__8710
+_version: 0.0.1
+alternative_title: The Doré Gallery of Bible Illustrations, Complete
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Doré, Louis Auguste Gustave
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Dorè, Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+covers:
+- cover_type: archival
+  image_path: 8710/8710-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+description: ''
+gutenberg_issued: '2004-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Illustrations'
+- !lcc 'N'
+- GITenberg
+title: "The Doré Bible Gallery, Complete\r\nContaining One Hundred Superb Illustrations,\
+  \ and a Page of Explanatory Letter-press Facing Each"
+url: http://www.gutenberg.org/ebooks/8710
